@@ -35,7 +35,7 @@ SO THAT our own site is optimized for search engines
 ## Why I did this:
 I wanted to push my boundries for optimizing html and CSS docs.
 ## Problem solved: 
-The customers code volume was reduced which increased loadtime.
+The customers code volume was reduced which reduced loadtime.
 ## Learning journey:
 I learned how to consolidate css selectors under the same property and value set.
 
@@ -78,11 +78,3 @@ SOFTWARE.
 - ⚡ Fun fact **Whales can hold their breath for a really long time!**
 
 
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
